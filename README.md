@@ -3,7 +3,7 @@
 Software Developer specializing in the MERN stack and React Native. Experienced in developing web and mobile applications, mainly in the areas of e-commerce, transportation, and logistics. I have taken on various roles depending on the project's stage and needs, quickly adapting to new challenges. I am looking to participate in dynamic, challenging, and collaborative projects that allow me to continue growing professionally
 
 - 🌱 I’m currently learning ...
-PostgreQL
+PostgresQL
 
 - 📫 How to reach me: 
 [Mi perfil de linkedin](https://www.linkedin.com/in/parcepaiva/)
