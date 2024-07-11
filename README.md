@@ -1,11 +1,11 @@
 ## Hi there, welcome to my Github Profile, I'm Pablo 👋
 
-Software Developer especializado en el stack MERN y React Native. Con experiencia en el desarrollo de aplicaciones web y móviles, principalmente en las áreas de e-commerce, transporte y logística. He desempeñado diversos roles según la etapa y las necesidades del proyecto, adaptándome rápidamente a nuevos desafíos. Estoy buscando participar en proyectos dinámicos, desafiantes y colaborativos que me permitan seguir creciendo profesionalmente.
+Software Developer specializing in the MERN stack and React Native. Experienced in developing web and mobile applications, mainly in the areas of e-commerce, transportation, and logistics. I have taken on various roles depending on the project's stage and needs, quickly adapting to new challenges. I am looking to participate in dynamic, challenging, and collaborative projects that allow me to continue growing professionally
 
 - 🌱 I’m currently learning ...
 PostgreQL
 
-📫 How to reach me: 
+- 📫 How to reach me: 
 [Mi perfil de linkedin](https://www.linkedin.com/in/parcepaiva/)
 
 <!--
